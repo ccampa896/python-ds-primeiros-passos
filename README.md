@@ -37,7 +37,7 @@
   <li>INTRODUÇÃO
     <ul>
       <li>Python</li>
-      <li>Google Colaboratory</li>
+      <li>JUpyter Notebook</li>
     </ul>
   </li>
   <li>COMANDOS BÁSICOS
