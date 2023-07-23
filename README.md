@@ -37,7 +37,7 @@
   <li>INTRODUÇÃO
     <ul>
       <li>Python</li>
-      <li>JUpyter Notebook</li>
+      <li>Jupyter Notebook</li>
     </ul>
   </li>
   <li>COMANDOS BÁSICOS
@@ -91,6 +91,14 @@
           <li>Métodos com dicionários</li>
         </ul>
       </li>
+      <li>Sets (conjuntos)
+        <ul>
+          <li>Utilização dos Sets</li>
+          <li>Propriedades e interações com listas</li>
+          <li>Operações com sets</li>
+          <li>Diferença de performance entre sets e outras estruturas de dados</li>
+        </ul>
+      </li>
     </ul>
   </li>
 </ul>
@@ -110,6 +118,7 @@
 <ul>
 <li><i>Projeto_Python_Data_Science.ipynb</i>: arquivo com os códigos usados para acompanhar as aulas da Alura.</li>
 <li><i>Hora+da+pratica.ipynb</i>: arquivo com mais de 60 exercícios para serem colocados em prática os conceitos aprendidos durante as aulas.</li>
+<li><i>Trabalhando_com_sets_no_Python_[Alura+].ipynb</i>: arquivo da aula da ALura+, sobre sets (conjuntos, em Python)</li>
 </ul>
 
 ###
